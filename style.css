@@ -1,0 +1,22 @@
+body{
+    background-image: url(sunset.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.menu{
+    background: green;
+    text-align: center;
+}
+
+.menu ul{
+    display: inline-flex;
+    list-style: none;
+    color: honeydew;
+}
+
+.menu ul li{
+    width: 100px;
+    margin: 50px;
+    padding: 15px;
+}
